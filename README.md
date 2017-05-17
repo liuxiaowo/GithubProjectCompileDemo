@@ -10,5 +10,5 @@
 	}<br/>
 	步骤二：添加依赖关系:<br/>
 	dependencies {<br/>
-		compile 'com.github.User:Repo:Tag'<br/>
+		compile 'com.github.liuxiaowo:GithubProjectCompileDemo:V1.0'<br/>
 	}<br/>
